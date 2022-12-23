@@ -21,4 +21,5 @@ void generateRNG() {
 // Main function definition.
 int main() {
 	generateRNG();
+	return 0;
 }
