@@ -1,5 +1,5 @@
 // Basic including and using for each C++ project. This file is meant to be included at the very beginning of each project.
-// Inlcude.
+// Include.
 #include <iostream>
 #include <string>
 
