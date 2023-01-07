@@ -11,7 +11,7 @@ VKGW only supports (for now) the following:
 * Convert more messages after converting the first one is still in **development**.
 
 ## Files and dependencies.
-VKGW is made thanks to the combination of three files. **All of them are require for the program to work**.
+VKGW is made thanks to the combination of three files. **All of them are required for the program to work**.
 * VKCodeGenerator.cpp: Core program.
 * incluSing.cpp: File that contains all requires and using.
 * VKReferences.txt: Contains the references to the virtual keys. Source: [Microsoft](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes).
