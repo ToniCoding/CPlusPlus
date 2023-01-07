@@ -1,4 +1,4 @@
-# Virtual Keys Generator Windows (VKGW)
+# Virtual Keys Generator for Windows (VKGW)
 ## Introduction
 With C++, "Windows.h" and "winuser.h" headers you can simulate key strokes. Sometimes it can be tedious to write down all those lines, so I made this simple code generator that will convert all your messages into code.
 
