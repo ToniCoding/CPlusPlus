@@ -37,7 +37,7 @@ void translator(string message) {
 			}
 		}
 		arrayTracker = arrayTracker + 1;
-		referencesFile.close(); // Closes file so it can be readen again.
+		referencesFile.close(); // Closes file so it can be read again.
 	}
 	cout << "You can manually copy the code in console. However, a file has been created where you have stored this program.";
 	codeFile.close();
