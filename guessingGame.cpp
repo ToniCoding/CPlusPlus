@@ -1,4 +1,5 @@
 // Simple number guesser that will end if user fails up to 3 times.
+// NOTE 15/02/2023: In this code I used the std namespace because I wasn't aware of its problem.
 
 #include <iostream>
 
