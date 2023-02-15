@@ -1,4 +1,5 @@
 // This simple program will give the user a chance of passing their next exam based on the last three marks.
+// NOTE 15/02/2023: In this code I used the std namespace because I wasn't aware of its problem.
 
 #include <iostream>
 
